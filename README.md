@@ -1,4 +1,3 @@
-# movieRecommender
 # AI_Final_Project
 How to run the code: open a python editor and then run the recommendation_engine.py.
 (A smaller set of data can be found in test-data/. To run the program with that smaller
